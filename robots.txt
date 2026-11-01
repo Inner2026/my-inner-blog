@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://inner2026.github.io/my-inner-blog/sitemap.xml

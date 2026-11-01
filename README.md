@@ -1,2 +1,3 @@
-# my-inner-blog
-My Inner Blog - published automatically by the My Iner Growth Agent
+# My Inner Blog
+
+Generated automatically by the My Inner Growth Agent. Edit articles in the agent repository, not here.
